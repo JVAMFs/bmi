@@ -1,6 +1,8 @@
 # bmi
 
-A new Flutter project.
+Body Mass Index (Indeks Massa Tubuh)
+Indeks massa tubuh adalah nilai yang diturunkan dari massa dan tinggi badan seseorang. BMI didefinisikan sebagai massa tubuh dibagi dengan kuadrat tinggi badan, dan dinyatakan dalam satuan kg/m², yang dihasilkan dari massa dalam kilogram dan tinggi dalam meter. 
+
 
 ## Getting Started
 
